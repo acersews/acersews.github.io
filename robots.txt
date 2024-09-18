@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://acersews.github.io/sitemap.html.gz
+Sitemap: https://acersews.github.io/app/sitemap.html.gz
+Sitemap: https://acersews.github.io/assets/sitemap.html.gz
+Sitemap: https://acersews.github.io/css/sitemap.html.gz
+Sitemap: https://acersews.github.io/includes/sitemap.html.gz
+Sitemap: https://acersews.github.io/item/sitemap.html.gz
+Sitemap: https://acersews.github.io/src/sitemap.html.gz
